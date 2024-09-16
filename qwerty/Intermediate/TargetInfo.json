@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "qwerty",
+			"Path": "..\\Source\\qwerty.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "qwertyEditor",
+			"Path": "..\\Source\\qwertyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

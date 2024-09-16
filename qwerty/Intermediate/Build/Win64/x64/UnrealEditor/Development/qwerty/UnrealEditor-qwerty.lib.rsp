@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-qwerty.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\qwertyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\UnrealEditor\Development\qwerty\qwerty.init.gen.cpp.obj"
+"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\UnrealEditor\Development\qwerty\SnowmanMove.gen.cpp.obj"
+"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\UnrealEditor\Development\qwerty\qwerty.cpp.obj"
+"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\UnrealEditor\Development\qwerty\SnowmanMove.cpp.obj"
+"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\UnrealEditor\Development\qwerty\Default.rc2.res"
+/OUT:"C:\Users\Francis Apolinar\Documents\Unreal Projects\qwerty\Intermediate\Build\Win64\x64\UnrealEditor\Development\qwerty\UnrealEditor-qwerty.lib"

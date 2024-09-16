@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Francis Apolinar/Documents/Unreal Projects/qwerty/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Francis Apolinar/Documents/Unreal Projects/qwerty/Content/snowman.umap",
+				"C:/Users/Francis Apolinar/Documents/Unreal Projects/qwerty/Content/Materials/Orange.uasset",
+				"C:/Users/Francis Apolinar/Documents/Unreal Projects/qwerty/Content/Materials/Black.uasset",
+				"C:/Users/Francis Apolinar/Documents/Unreal Projects/qwerty/Content/Materials/Wall.uasset",
+				"C:/Users/Francis Apolinar/Documents/Unreal Projects/qwerty/Content/Materials/Roof.uasset"
+			]
+		}
+	]
+}

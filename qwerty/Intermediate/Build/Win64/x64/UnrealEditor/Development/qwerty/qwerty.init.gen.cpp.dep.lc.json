@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\francis apolinar\\documents\\unreal projects\\qwerty\\intermediate\\build\\win64\\unrealeditor\\inc\\qwerty\\uht\\qwerty.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\francis apolinar\\documents\\unreal projects\\qwerty\\intermediate\\build\\win64\\x64\\qwertyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\francis apolinar\\documents\\unreal projects\\qwerty\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\qwerty\\definitions.qwerty.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
